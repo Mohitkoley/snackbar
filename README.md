@@ -1,6 +1,6 @@
 # snackbar
 
-A new Flutter application.
+A new Flutter application that shows snackbar which runs on web,android,and mac-os.
 
 ## Getting Started
 
